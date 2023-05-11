@@ -1,0 +1,208 @@
+header {
+	background-image: url(img1.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-position: top;
+	height: 725px;
+	margin-left: -7px;
+	margin-right: -7px;
+	margin-top: -7px;
+}
+
+.txt1 {
+	margin-top: 120px;
+	text-align: center;
+	font-family: 'Noto Sans Display', sans-serif;
+	font-style: regular;
+	font-size: 14px;
+	color: #ffffff;
+}
+
+h1 {
+	margin-top: -20px;
+	text-align: center;
+	font-family: 'Noto Sans Display', sans-serif;
+	font-style: bold;
+	font-size: 64px;
+	color: #ffffff;
+}
+
+h2 {
+	margin-top: -40px;
+	text-align: center; 
+	font-family: 'Noto Sans Display', sans-serif;
+	font-style: regular;
+	font-size: 42px;
+	color: #ffffff;
+}
+
+.txt2 {
+	margin-top: -20px;
+	text-align: center;
+	font-family: 'Noto Sans Display', sans-serif;
+	font-style: regular;
+	font-size: 14px;
+	color: #ffffff;
+	margin-left: -10px;
+}
+
+.oracle {
+	margin-left: 610px;
+	margin-top: 15px;
+	border-radius: 50%;
+	background: transparent;
+	border: 1px solid #ffffff;
+	width:60px;
+	height: 60px;
+	color: #ffffff;
+}
+
+.oracle:hover {
+	background: #a9a32a;
+}
+
+.block1 {
+	margin-left: 250px;
+	text-align: left;
+	margin-top: 160px;
+}
+
+.block2 {
+	margin-left: 250px;
+	text-align: left;
+	margin-top: 160px;
+}
+
+ul {
+	text-decoration: none;
+	word-spacing: 80px;
+}
+
+ul li {
+	display: inline-block;
+	font-family: 'Noto Sans Display', sans-serif;
+	font-style: regular;
+	font-size: 14px;
+	margin-left: -40px;
+}
+
+.block3 {
+	background-image: url(img5.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-top: 500px;
+	margin-left: -7px;
+	margin-right: -7px;
+	height: 325px;
+	color: #ffffff;
+	font-family: 'Noto Sans Display', sans-serif;
+	font-size: regular;
+	font-size: 24px;
+	text-align: center;
+}
+
+.block4 {
+	margin-left: 250px;
+	text-align: left;
+	margin-top: 160px;
+}
+
+.block5 {
+	float: right;
+	margin-right: 240px;
+	text-align: left;
+}
+
+.block6 {
+	float: left;
+	margin-left: 250px;
+	margin-top: 160px;
+}
+
+.block7 {
+	float: left;
+	margin-left: 250px;
+	margin-top: 20px;
+}
+
+.block8 {
+	float: right;
+	margin-right: 200px;
+	text-align: left;
+	margin-top: 20px;
+}
+
+.oracle2 {
+	margin-left: -10px;
+	margin-top: 15px;
+	border-radius: 50%;
+	background: transparent;
+	border: 1px solid #000000;
+	width:60px;
+	height: 60px;
+	color: #000000;
+}
+
+.oracle2:hover {
+	background: #a9a32a;
+}
+
+.txt3 {
+	margin-top: -10px;
+	text-align: center;
+	font-family: 'Noto Sans Display', sans-serif;
+	font-style: regular;
+	font-size: 14px;
+	color: #000000;
+	margin-left: -240px;
+}
+
+.bottom {
+	background-image: url(img8.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-top: 1500px;
+	height: 581px;
+	margin-left: -7px;
+	margin-right: -7px;
+	color: #ffffff;
+}
+
+.oracle3 {
+	margin-left: 10px;
+	margin-top: 15px;
+	border-radius: 50%;
+	background: transparent;
+	border: 1px solid #ffffff;
+	width:60px;
+	height: 60px;
+	color: #ffffff;
+}
+
+.oracle3:hover {
+	background: #a9a32a;
+}
+
+.block9 {
+	float: left;
+	margin-left: 250px;
+	margin-top: 250px;
+	text-align: left;
+	font-family: 'Noto Sans Display', sans-serif; 
+	font-style: regular;
+	font-size: 14px;
+}
+
+input::-webkit-input-placeholder {
+	color: #ffffff;
+	font-family: 'Noto Sans Display', sans-serif;
+	font-style: regular;
+	font-size: 14px;
+}
+
+.img {
+	word-spacing: 40px;
+	text-decoration: none;
+	margin-left:820px;
+	margin-top: -75px;
+}
